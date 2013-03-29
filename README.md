@@ -9,7 +9,7 @@ package main
 
 import (
     "fmt"
-    "goes"
+    "github.com/mattupstate/goes"
 )
 
 func home() string {
